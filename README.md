@@ -24,7 +24,7 @@ your-repo/
 ├── app_pc.py         # YOUR application's PC-side logic — edit
 └── app_pi.py         # YOUR application's Pi-side logic — edit
 ```
-
+![HIL GUI screenshot](hil_gui_screenshot.jpg)
 ---
 
 ## Contents
